@@ -1,0 +1,36 @@
+* "simulator" "HSPICE" 
+* "version" "D-2010.03-SP1 32-BIT"
+* "format" "HSP"
+* "rundate" "12:12:50 12/31/2012 "
+* "netlist" "d:\aa-university\virtual_classes\electronic3\project\phase_01\test\project.sp "
+* "runtitle" "*********// devices //*********"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 1 =-303.7881u       
++ 2 =-303.7881u       
++ 3 =-303.7881u       
++ 4 =-323.3822u       
++ 5 =   0.            
++ 6 = -19.8272u       
++ 7 =-632.7229m       
++ 8 =   1.0676        
++ 9 =   1.0671        
++ 10 =   1.7000        
++ 11 =   2.3857        
++ 12 =   1.7139        
++ 13 =   2.3274        
++ 14 = 311.4900m       
++ 15 =-357.6765m       
++ 16 = 811.5007m       
++ 17 =-792.8945m       
++ 18 =-303.7881u       
++ 100 =   3.0000        
++ 101 =-303.7881u       
++ 102 =-303.7881u       
++ 103 =   0.            
++ 200 =  -3.0000        
+***   END: Saved Operating Point ***                     
