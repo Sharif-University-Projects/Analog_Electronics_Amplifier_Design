@@ -21,7 +21,7 @@
 
 Numbering to use in HSpice Code ...
 
-https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/Images/Numbered_Circuit_v2_3.png
+![image](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/Images/Numbered_Circuit_v2_3.png)
 
 
 
