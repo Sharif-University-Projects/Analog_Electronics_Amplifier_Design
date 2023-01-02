@@ -2,11 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/50498845/210151631-1a63ef91-0b36-4326-9c6b-b247c85b9bad.png)
 
----
-![image](https://user-images.githubusercontent.com/50498845/210274553-25d13629-7339-4f6e-8a80-954f7de4a83e.png)
-
----
-
 
 1. [𝐴𝑣𝑜(𝑜𝑝𝑒𝑛 𝑙𝑜𝑜𝑝) ≥ 115𝑑𝐵 ](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%90%B4%F0%9D%91%A3%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D%F0%9D%91%92%F0%9D%91%9B-%F0%9D%91%99%F0%9D%91%9C%F0%9D%91%9C%F0%9D%91%9D)
 2. [𝑃𝑜𝑤𝑒𝑟 𝐶𝑜𝑛𝑠𝑢𝑚𝑝𝑡𝑖𝑜𝑛 ≤ 12𝑚𝑊 ](https://github.com/Sharif-University-Projects/Analog_Electronics_Amplifier_Design/blob/main/README.md#%F0%9D%91%83%F0%9D%91%9C%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%9F-%F0%9D%90%B6%F0%9D%91%9C%F0%9D%91%9B%F0%9D%91%A0%F0%9D%91%A2%F0%9D%91%9A%F0%9D%91%9D%F0%9D%91%A1%F0%9D%91%96%F0%9D%91%9C%F0%9D%91%9B)
@@ -18,7 +13,7 @@
 
 # Circuit in LtSpice :
 
-![image](https://user-images.githubusercontent.com/69210109/210274456-fc029d8f-2571-43e2-b3cd-35aa66912d94.png)
+![image](https://user-images.githubusercontent.com/50498845/210274553-25d13629-7339-4f6e-8a80-954f7de4a83e.png)
 
 
 
