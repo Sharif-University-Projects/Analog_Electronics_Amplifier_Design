@@ -18,8 +18,8 @@
 
 
 # Numbering Circuit Nodes :
+
 Numbering to use in HSpice Code ...
-![image](https://user-images.githubusercontent.com/50498845/210182534-df72da76-7e97-44a9-8ee9-1d824c315e64.png)
 
 
 
