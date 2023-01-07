@@ -1,4 +1,0 @@
-### SPICE Explorer log file, revision 2007.1 (build 0702) ###
-### created at 12:10:25 on Mon Dec 31 2012 (Windows) ###
-# (0) running in waveview only mode
-sx_open_sim_file_read "d:\aa-university\virtual_classes\electronic3\project\phase_01\hspice\project.ac0"
